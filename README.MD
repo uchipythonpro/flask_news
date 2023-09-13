@@ -10,6 +10,7 @@
 * Flask
 * WTForms
 * SQLAlchemy
+* Flask-Login
 
 ## Как запустить
 
